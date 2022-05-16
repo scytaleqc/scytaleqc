@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scytaleqc
 - 👀 I’m interested in ActivityPub
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development (HTML, CSS, JS, C#)
 - 💞️ I’m looking to collaborate on - not yet
 - 📫 How to reach me on Mastodon: obc@mas.atmx.ca
 
