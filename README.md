@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scytaleqc
-- Mastodon & Peertube admin!
+- Mastodon & :PeerTube:Peertube admin!
 - 👀 I’m interested in back-end development, music, ActivityPub, video...
 - 🌱 I’m currently learning web development (HTML, CSS, JS, C#)
 - 💞️ I’m looking to collaborate on - not yet
